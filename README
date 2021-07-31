@@ -1,0 +1,12 @@
+For running:
+
+1. set passwords in application.properties file for admin and user
+2. run with
+mvn clean compile
+./mvnw spring-boot:run
+
+3. find Encoded string
+
+4. Type encoded string in httprequests.http file for Basic Authentication
+
+5. User request to test application
